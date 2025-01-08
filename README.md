@@ -67,6 +67,13 @@ The objective of this assignment is to develop a robust system that automates th
 
 1. **Preparation:**
    - Configure AWS credentials and required IAM roles.
+
+
+-![image](https://github.com/user-attachments/assets/d97ff3aa-7761-4dad-aa7d-b50ccd03cda8)
+
+-![image](https://github.com/user-attachments/assets/cb181222-1f4a-43e4-8141-2398cc40288e)
+
+
    - Ensure network configurations, such as security groups and subnets, are in place.
 
 2. **Implementation:**
@@ -77,6 +84,15 @@ The objective of this assignment is to develop a robust system that automates th
      - Set up the ASG with appropriate scaling policies.
      - Create and subscribe to SNS topics for notifications.
 
+-![image](https://github.com/user-attachments/assets/a72506a9-0da8-4daf-b806-8056ff779163)
+
+
+-![image](https://github.com/user-attachments/assets/aca689e2-3796-40f7-8ba7-c7bdec887220)
+
+as we can see my code is working fine.
+
+
+
 3. **Testing:**
    - Simulate traffic scenarios to test scaling policies.
    - Validate notification delivery for different events.
@@ -84,6 +100,8 @@ The objective of this assignment is to develop a robust system that automates th
 
 4. **Teardown:**
    - Use the script to clean up all resources, ensuring no unnecessary costs.
+
+
 
 ---
 
